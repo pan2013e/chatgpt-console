@@ -1,0 +1,7 @@
+build
+dist
+*.spec
+chatvenv
+__pycache__
+.idea
+.DS_Store
